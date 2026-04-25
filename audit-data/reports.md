@@ -1,19 +1,40 @@
 ---
-title: "Protocol Audit Report"
+title: "PasswordStore Audit Report"
 author: "Tim"
-date: "April 21, 2026"
+date: "April 22, 2026"
 titlepage: true
-logo: "logo.pdf"
-logo-width: 180
+titlepage-color: "FFFFFF"
+titlepage-text-color: "000000"
+titlepage-rule-color: "3B82F6"
+titlepage-rule-height: 2
+titlepage-logo: "password-store-logo.png"
+toc: true
+toc-own-page: true
+numbersections: false
+listings-disable-line-numbers: false
+code-block-font-size: \small
+colorlinks: true
+linkcolor: "blue"
+urlcolor: "blue"
+mainfont: "DejaVu Serif"
+monofont: "DejaVu Sans Mono"
 ---
-<-- Your report starts from here -->
-...
 
-Prepared by: [Cyfrin](https://cyfrin.io)
-Lead Auditors: 
-- xxxxxxx
+\newpage
+
+# PasswordStore Audit Report
+
+**Prepared by:** Tim  
+**Lead Auditor:** Tim  
+**Assisting Auditors:** None  
+**Date:** April 22, 2026  
+**Version:** 1.0  
+
+---
+
 
 # Table of Contents
+- [PasswordStore Audit Report](#passwordstore-audit-report)
 - [Table of Contents](#table-of-contents)
 - [Protocol Summary](#protocol-summary)
 - [Disclaimer](#disclaimer)
@@ -36,7 +57,7 @@ Protocol does X, Y, Z
 
 # Disclaimer
 
-The YOUR_NAME_HERE team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the Solidity implementation of the contracts.
+The  team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the Solidity implementation of the contracts.
 
 # Risk Classification
 
